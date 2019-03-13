@@ -1,0 +1,60 @@
+2019-03-12 21:57:53 [89.236.229.155][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 89.236.229.155
+    in /var/www/shokha.uz/data/www/tz.shokha.uz/yii2-app-basic/views/layouts/main.php:78
+    in /var/www/shokha.uz/data/www/tz.shokha.uz/yii2-app-basic/controllers/SiteController.php:64
+2019-03-12 21:57:53 [89.236.229.155][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 89.236.229.155
+2019-03-12 21:57:52 [89.236.229.155][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'PATH' => '/usr/local/bin:/usr/bin:/bin'
+    'REDIRECT_HANDLER' => 'application/x-httpd-php5'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'tz.shokha.uz'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_CONNECTION' => 'close'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://tz.shokha.uz/yii2-app-basic/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,ru;q=0.8'
+    'HTTP_CACHE_CONTROL' => 'max-stale=0'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at tz.shokha.uz Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'tz.shokha.uz'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '89.236.229.155'
+    'DOCUMENT_ROOT' => '/var/www/shokha.uz/data/www/tz.shokha.uz'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => '/php-bin/'
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/php-bin-isp-php72/shokha.uz/'
+    'SERVER_ADMIN' => 'webmaster@tz.shokha.uz'
+    'SCRIPT_FILENAME' => '/var/www/shokha.uz/data/www/tz.shokha.uz/yii2-app-basic/web/index.php'
+    'REMOTE_PORT' => '35628'
+    'REDIRECT_URL' => '/yii2-app-basic/web/index.php'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/yii2-app-basic/web/'
+    'SCRIPT_NAME' => '/yii2-app-basic/web/index.php'
+    'ORIG_SCRIPT_FILENAME' => '/var/www/php-bin-isp-php72/shokha.uz/php'
+    'ORIG_PATH_INFO' => '/yii2-app-basic/web/index.php'
+    'ORIG_PATH_TRANSLATED' => '/var/www/shokha.uz/data/www/tz.shokha.uz/yii2-app-basic/web/index.php'
+    'ORIG_SCRIPT_NAME' => '/php-bin/php'
+    'PHP_SELF' => '/yii2-app-basic/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1552409872.9522
+    'REQUEST_TIME' => 1552409872
+]
